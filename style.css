@@ -127,7 +127,7 @@ body {
 }
 
 .title__contact {
-  font-size: 1.5em;
+  font-size: 27px;
   padding-bottom: 60px;
 }
 
@@ -198,7 +198,7 @@ body {
 }
 
 .title__language {
-  font-size: 1.5em;
+  font-size: 27px;
   font-weight: 900;
   padding-bottom: 30px;
 }
@@ -259,9 +259,8 @@ body {
 }
 
 .title__interest {
-  font-size: 1.5em;
+  font-size: 27px;
   font-weight: 900;
-  padding-bottom: 30px;
 }
 
 .interest_items {
@@ -274,9 +273,9 @@ body {
 
 /*Certificate*/
 .title__certificate {
-  font-size: 1.5em;
+  font-size: 27px;
   font-weight: 900;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 .certificate {
