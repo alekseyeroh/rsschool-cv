@@ -1,7 +1,7 @@
 # **ALEKSEY EROH**
 _Junior Frontend Developer_
 
-![photo Aleksey Eroh]()
+![photo Aleksey Eroh](https://raw.githubusercontent.com/alekseyeroh/rsschool-cv/refs/heads/gh-pages/assets/images/photo.webp)
 
 ## **CONTACT DETAILS:**
 
