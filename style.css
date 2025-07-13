@@ -114,7 +114,7 @@ body {
 .left_info {
   position: relative;
   display: grid;
-  gap: 80px;
+  gap: 67px;
   top: 27%;
   padding-left: 40px;
   padding-right: 40px;
@@ -276,7 +276,7 @@ body {
 .title__certificate {
   font-size: 1.5em;
   font-weight: 900;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
 }
 
 .certificate {
